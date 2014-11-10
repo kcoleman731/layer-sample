@@ -1,0 +1,8 @@
+Pods
+.DS_Store
+*.bundle
+xcuserdata
+LayerPhoto.xcworkspace/xcuserdata/*.xcuserdatad/
+LayerPhoto.xcworkspace/xcshareddata/xcschemes/*.xcscheme
+LayerPhoto.xcworkspace/xcshareddata/LayerPhoto.xccheckout
+xcodebuild.log
